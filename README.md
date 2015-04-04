@@ -1,10 +1,10 @@
-#Javascript Adventures
+# Javascript Adventures
 
 I use Javascript when working with the Titanium platform and have familiarized myself with Angular.js and Node.js in the past. I thought I'd recap over some Javascript fundamentals and best practices to make sure that I'm up to date.
 
 This repo hosts my notes and tracks my progress through the proposed reading list.
 
-###Reading List
+### Reading List
 
 - Javascript
 	- Review fundamentals: [Mozilla Javascript Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
