@@ -79,3 +79,41 @@ try {
 - Anything can be thrown in javascript.
 - Typical to throw ECMAScript error objects.
 - Exceptions bubble up to parent `try..catch` blocks in nested environments.
+
+### Loops
+
+``` Javascript
+
+for (var i = 0; i < 10; ++i) {
+	console.log(i);
+}
+
+var i = 100;
+do {
+	// Will be executed at least once
+	--i;
+} while (i > 0);
+
+while ((ln = readFile()) !== EOL) {
+	...
+}
+
+label: while (true) ;
+
+break;
+break label;
+continue;
+continue label;
+
+for (let prop in obj) {
+	if (obj.hasOwnProperty(prop)) {
+		...
+	}
+}
+
+let arr = [1, 2, 3, 4, 5];
+for (let value in arr) {
+	...
+}
+
+```
