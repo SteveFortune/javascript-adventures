@@ -108,3 +108,19 @@ if (typeof variable === 'undefined') {...} // True, no error
 var variable;
 
 ```
+### Global Variables
+
+- Global variables are properties of the global object (e.g. `window` for web pages).
+
+### Constants
+
+- Read-only named constants are declared with the `const` keyword.
+- Constants have to be initialized to a value.
+- Constants are scoped to the nearest block, like `let` variables.
+- You cannot declare constants with the same name as a variable or function in the same scope.
+
+``` Javascript
+
+const Constant = 123;
+
+```
