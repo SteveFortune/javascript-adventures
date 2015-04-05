@@ -7,7 +7,8 @@ This repo hosts my notes and tracks my progress through the proposed reading lis
 ### Reading List
 
 - Javascript
-	- Review fundamentals: [Mozilla Javascript Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
+	- Review fundamentals: [Mozilla Javascript Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference) _IN PROGRESS_
+		- <strike>Introduction, Grammar and types</strike>
 	- Review best practices:
 		- [W3 Javascript Best Practices](http://www.w3.org/wiki/JavaScript_best_practices)
 		- [JS The Right Way](https://github.com/braziljs/js-the-right-way/)
