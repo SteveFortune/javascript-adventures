@@ -112,7 +112,7 @@ for (let prop in obj) {
 }
 
 let arr = [1, 2, 3, 4, 5];
-for (let value in arr) {
+for (let value of arr) {
 	...
 }
 
