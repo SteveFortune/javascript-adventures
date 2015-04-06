@@ -17,6 +17,8 @@ This repo hosts my notes and tracks my progress through the proposed reading lis
 		- <strike>Numbers and dates</strike>
 		- <strike>Text formatting</strike>
 		- <strike>Indexed collections</strike>
+		- <strike>Keyed collections and structured data (404)</strike>
+		- <strike>Working with objects</strike>
 	- Review best practices:
 		- [W3 Javascript Best Practices](http://www.w3.org/wiki/JavaScript_best_practices)
 		- [JS The Right Way](https://github.com/braziljs/js-the-right-way/)
