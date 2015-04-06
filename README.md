@@ -15,6 +15,7 @@ This repo hosts my notes and tracks my progress through the proposed reading lis
 		- <strike>Functions</strike>
 		- <strike>Expressions and operators</strike>
 		- <strike>Numbers and dates</strike>
+		- <strike>Text formatting</strike>
 	- Review best practices:
 		- [W3 Javascript Best Practices](http://www.w3.org/wiki/JavaScript_best_practices)
 		- [JS The Right Way](https://github.com/braziljs/js-the-right-way/)
