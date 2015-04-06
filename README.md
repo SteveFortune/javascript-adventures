@@ -8,20 +8,30 @@ This repo hosts my notes and tracks my progress through the proposed reading lis
 
 - Javascript
 	- Review fundamentals: [Mozilla Javascript Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference) _IN PROGRESS_
-		- <strike>Introduction</strike>
-		- <strike>Grammar and types</strike>
-		- <strike>Control flow and error handling</strike>
-		- <strike>Loops and iteration</strike>
-		- <strike>Functions</strike>
-		- <strike>Expressions and operators</strike>
-		- <strike>Numbers and dates</strike>
-		- <strike>Text formatting</strike>
-		- <strike>Indexed collections</strike>
-		- <strike>Keyed collections and structured data (404)</strike>
-		- <strike>Working with objects</strike>
-		- <strike>Iterators and generators</strike>
-		- <strike>Meta programming (404)</strike>
-		- <strike>[Details of the object model](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Details_of_the_Object_Model)</strike>
+		- <strike>Javascript Guide</strike>
+			- <strike>Introduction</strike>
+			- <strike>Grammar and types</strike>
+			- <strike>Control flow and error handling</strike>
+			- <strike>Loops and iteration</strike>
+			- <strike>Functions</strike>
+			- <strike>Expressions and operators</strike>
+			- <strike>Numbers and dates</strike>
+			- <strike>Text formatting</strike>
+			- <strike>Indexed collections</strike>
+			- <strike>Keyed collections and structured data (404)</strike>
+			- <strike>Working with objects</strike>
+			- <strike>Iterators and generators</strike>
+			- <strike>Meta programming (404)</strike>
+			- <strike>[Details of the object model](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Details_of_the_Object_Model)</strike>
+		- Javascript technologies overview
+		- Introduction to Object Oriented Javascript
+		- A re-introduction to Javascript
+		- Javascript data structures
+		- Equality comparisons and when to use them
+		- Inheritance and the prototype chain
+		- Strict mode
+		- Javascript typed arrays
+		- Memory Management
 	- Review best practices:
 		- [W3 Javascript Best Practices](http://www.w3.org/wiki/JavaScript_best_practices)
 		- [JS The Right Way](https://github.com/braziljs/js-the-right-way/)
