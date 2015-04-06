@@ -56,3 +56,6 @@
 	lines";
 
 	```
+- `RegExp`: `/ab+c/`
+	- These expression literals are compiled at script load time. Use above the `RegExp` ctor for better performance.
+	- Use `RegExp` ctor for runtime compilation.
