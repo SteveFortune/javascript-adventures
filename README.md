@@ -23,8 +23,8 @@ This repo hosts my notes and tracks my progress through the proposed reading lis
 			- <strike>Iterators and generators</strike>
 			- <strike>Meta programming (404)</strike>
 			- <strike>[Details of the object model](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Details_of_the_Object_Model)</strike>
-		- Javascript technologies overview
-		- Introduction to Object Oriented Javascript
+		- <strike>Javascript technologies overview</strike>
+		- <strike>Introduction to Object Oriented Javascript</strike>
 		- A re-introduction to Javascript
 		- Javascript data structures
 		- Equality comparisons and when to use them
